@@ -1,1 +1,3 @@
-
+<Version: 1.1>
+/data/credits.txt https://raw.githubusercontent.com/AladortheWizard/BattleofBeautyDemoUpdate/master/Credits.txt
+<End of Version>
