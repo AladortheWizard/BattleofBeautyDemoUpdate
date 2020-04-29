@@ -1,0 +1,4 @@
+Aesthetico and AesthetiScape for the inspiration for the game
+Yanfly for the menu and battle plugins
+SumRndmDde for the Auto updater
+RPG Maker MV for the software used to make the game
